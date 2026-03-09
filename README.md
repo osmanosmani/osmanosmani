@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi, I'm Osman 👋
 
-<!--
-**osmanosmani/osmanosmani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack .NET Developer
 
-Here are some ideas to get you started:
+C# | ASP.NET Core | React | SQL Server
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+I am passionate about building modern web applications using **.NET and React**.
+Currently focused on full-stack development, clean architecture, and AI-assisted software development.
+
+---
+
+## Tech Stack
+
+### Backend
+
+* C#
+* ASP.NET Core
+* Entity Framework Core
+
+### Frontend
+
+* React
+* JavaScript
+* TypeScript
+* Tailwind / Bootstrap
+
+### Database
+
+* SQL Server
+
+### Tools
+
+* Git
+* GitHub
+* Docker
+* Azure
+
+---
+
+## Current Focus
+
+* Full Stack .NET Development
+* Building modern web applications
+* AI-assisted software development
+
+---
+
+## Contact
+
+📧 [osman.osmani@gmail.com](mailto:osman.osmani@gmail.com)
+📍 Sweden
