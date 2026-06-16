@@ -58,25 +58,33 @@ Full-stack web services management platform for agencies and small businesses.
 ### Nacka Byggpartner
 Modern business website for a Swedish construction company, focused on clean design, usability, and responsive layout.
 
+**Project type:** Personal / Client-style Project  
 **Tech:** React, Vite, Tailwind CSS  
+**Status:** Live / Portfolio project  
 **GitHub:** [Nacka Byggpartner](https://github.com/osmanosmani/Nacka-Byggpartner)
+**Live demo:** [View project](https://dev.nackabyggpartner.se/)
 
 ---
 
 ### CineScope
 Movie discovery web application built with modern frontend technologies.
 
+**Project type:** Personal Project  
 **Tech:** React, API integration, responsive UI  
+**Status:** Portfolio project  
 **GitHub:** [CineScope](https://github.com/osmanosmani/CineScope)
 
 ---
 
 ### LexiCamp Booking
-Booking platform project developed as part of a learning and collaboration environment.
+Group booking platform project developed as part of a collaborative learning environment.
 
+**Project type:** Group Project  
 **Tech:** JavaScript / React  
-**GitHub:** [LexiCamp Booking](https://github.com/aLexicon99/LexiCamp-Booking)
+**Original repository:** [LexiCamp Booking](https://github.com/aLexicon99/LexiCamp-Booking)  
+**My fork/reference:** [osmanosmani/LexiCamp-Booking](https://github.com/osmanosmani/LexiCamp-Booking)
 
+My contribution included development, testing, project collaboration, and support with the overall application structure.
 ---
 
 ## 🌐 Portfolio
