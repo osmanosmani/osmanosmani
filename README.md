@@ -97,7 +97,7 @@ You can view my personal portfolio here:
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-25303f?style=for-the-badge&logo=linkedin)](https://www.linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-25303f?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/osman-osmani/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-25303f?style=for-the-badge&logo=googlechrome)](https://www.osmanosmani.se)
 [![Email](https://img.shields.io/badge/Email-25303f?style=for-the-badge&logo=gmail)](mailto:osmanosmani@gmail.com)
 
