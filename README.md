@@ -1,93 +1,83 @@
 # Osman Osmani
 
-### Full Stack Developer / Software Engineer
+Frontend Developer / Full-Stack Web Developer
 
-Full Stack Developer with 10+ years of experience in web development, database-driven systems, SEO, digital solutions, and technical maintenance.
+I build responsive, secure, and maintainable web applications with a strong focus on usability, performance, and long-term business value. My background spans frontend development, backend systems, databases, SEO, and digital platform delivery across public sector, business, and client-focused environments.
 
-I build secure, high-performance web solutions with a focus on usability, reliability, performance, and long-term business value.
+## Focus
 
----
+- 10+ years of experience in web development, database-driven systems, and digital platforms
+- Strong background in frontend development, backend integration, CMS, SEO, and technical website delivery
+- Currently focused on React, TypeScript, C#, ASP.NET Core, SQL Server, and modern full-stack application development
+- Based in Helsingborg, Sweden
+- Open to development roles, collaborations, and technical projects
 
-## About
+## Core Stack
 
-* Based in Helsingborg, Sweden
-* Experience in frontend, backend, databases, SEO, and digital platforms
-* Strong background in website management, technical optimisation, and database administration
-* Currently focused on React, C#, ASP.NET Core, SQL Server, and modern full-stack development
-* Open to new opportunities, collaborations, internships, and development roles
+**Frontend**  
+React · TypeScript · JavaScript · HTML5 · CSS3 · Tailwind CSS · Bootstrap · Vite
 
----
+**Backend & Data**  
+C# · ASP.NET Core · ASP.NET Core Web API · Entity Framework Core · SQL Server · MySQL · PHP
 
-## Tech Stack
+**Tools & Platforms**  
+Git · GitHub · Azure · Vercel · WordPress · SEO · Google Analytics · Visual Studio · VS Code
 
-**Frontend:**
-React · JavaScript · HTML5 · CSS3 · Bootstrap · Tailwind CSS · Vite
-
-**Backend & Databases:**
-C# · ASP.NET Core · PHP · SQL Server · MySQL · Entity Framework
-
-**Tools & Platforms:**
-Git · GitHub · WordPress · SEO · Google Analytics · Visual Studio · VS Code
-
----
-
-## Featured Projects
+## Selected Projects
 
 ### NordicWebHub
+Full-stack B2B SaaS-style client portal for digital service delivery, built for agencies, companies, and digital service teams.
 
-Full-stack web services management platform for agencies and small businesses.
-
-**Tech:** React, TypeScript, ASP.NET Core, SQL Server, Identity
-**Status:** In development
-
----
-
-### Nacka Byggpartner
-
-Modern business website for a Swedish construction company, focused on clean design, responsive layout, service presentation, and professional online presence.
-
-**Tech:** React, Vite, Tailwind CSS
-**Status:** Live
-**GitHub:** [Nacka Byggpartner](https://github.com/osmanosmani/Nacka-Byggpartner)
-**Live:** [dev.nackabyggpartner.se](https://dev.nackabyggpartner.se/)
-
----
+**Stack:** React, TypeScript, Vite, Tailwind CSS, ASP.NET Core Web API, C#, Entity Framework Core, SQL Server, Azure SQL, ASP.NET Identity  
+**Highlights:** role-based access, HttpOnly cookie authentication, CSRF protection, customer data isolation, project requests, support tickets, service orders, SEO reports, hosting status, and AI-assisted service recommendations  
+**Status:** Live  
+**GitHub:** [NordicWebHub](https://github.com/osmanosmani/NordicWebHub)  
+**Live:** [nordic-web-hub.vercel.app](https://nordic-web-hub.vercel.app/)
 
 ### CineScope
+Full-stack movie discovery and management platform built with ASP.NET Core MVC and SQL Server.
 
-Movie discovery web application built with modern frontend technologies and API integration.
+**Stack:** ASP.NET Core MVC, C#, Entity Framework Core, SQL Server, ASP.NET Identity, Bootstrap 5, TMDB API, SignalR  
+**Highlights:** authentication, roles, reviews, ratings, favorites, import workflow, and admin dashboard  
+**Status:** Live  
+**GitHub:** [CineScope](https://github.com/osmanosmani/CineScope)  
+**Live:** [CineScope Demo](https://app-cinescope-osman-hma2adbye5bjgxcy.swedencentral-01.azurewebsites.net/)
 
-**Tech:** React, API integration, responsive UI
-**Status:** Portfolio project
-**GitHub:** [CineScope](https://github.com/osmanosmani/CineScope)
+### osman-portfolio-react
+Personal portfolio built with React and Vite, presenting selected projects, technical background, and professional experience.
 
----
+**Stack:** React, Vite, JavaScript, CSS, Bootstrap  
+**Status:** Live  
+**GitHub:** [osman-portfolio-react](https://github.com/osmanosmani/osman-portfolio-react)  
+**Live:** [osmanosmani.se](https://www.osmanosmani.se/)
+
+### Nacka Byggpartner
+Modern business website for a Swedish construction company, focused on responsive layout, service presentation, and professional frontend delivery.
+
+**Stack:** React, Vite, Tailwind CSS  
+**Status:** Live  
+**GitHub:** [Nacka Byggpartner](https://github.com/osmanosmani/Nacka-Byggpartner)  
+**Live:** [dev.nackabyggpartner.se](https://dev.nackabyggpartner.se/)
+
+## Additional Projects
+
+### Munamii Cakery
+Responsive React frontend project with reusable components, routing, and product filtering.  
+**GitHub:** [cakery-project](https://github.com/osmanosmani/cakery-project)  
+**Live:** [Munamii Cakery Demo](https://osmanosmani.github.io/cakery-project/)
 
 ### LexiCamp Booking
-
-Group booking platform project developed in a collaborative learning environment.
-
-**Tech:** JavaScript / React
-**Project type:** Group Project
-**Original repository:** [LexiCamp Booking](https://github.com/aLexicon99/LexiCamp-Booking)
-**Fork/reference:** [osmanosmani/LexiCamp-Booking](https://github.com/osmanosmani/LexiCamp-Booking)
-
----
+Collaborative booking platform project included as a reference to my contribution in a group development environment.  
+**Original Repository:** [aLexicon99/LexiCamp-Booking](https://github.com/aLexicon99/LexiCamp-Booking)  
+**Reference Fork:** [osmanosmani/LexiCamp-Booking](https://github.com/osmanosmani/LexiCamp-Booking)  
+**Live:** [LexiCamp Booking Demo](https://lexi-camp-booking.vercel.app/)
 
 ## Portfolio
 
-[www.osmanosmani.se](https://www.osmanosmani.se)
-
----
-
-## GitHub Stats
-
-![Osman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=osmanosmani\&show_icons=true\&theme=tokyonight\&hide_title=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=osmanosmani\&layout=compact\&theme=tokyonight)
-
----
+[www.osmanosmani.se](https://www.osmanosmani.se/)
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/osman-osmani/) · [Portfolio](https://www.osmanosmani.se) · [Email](mailto:osmanosmani@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/osman-osmani/)
+- [Portfolio](https://www.osmanosmani.se/)
+- Email: osmanosmani@gmail.com
